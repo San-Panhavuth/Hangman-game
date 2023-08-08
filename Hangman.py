@@ -1,6 +1,6 @@
 import random
 words = ['table','elephant','apple']
-clue = ['an object we can put things on', 'a big animal with trunks and fluffy ears','a fruit commonly eaten']
+clue = ['An object we can put things on', 'A big animal with trunks and fluffy ears','A fruit commonly eaten']
 wordselection = random.randint(0,2)
 clueselection = wordselection
 worduse=wordselection
